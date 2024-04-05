@@ -14,3 +14,4 @@ function isNumberArray (nrArray) {
     return rdnArray;
 }
 
+
